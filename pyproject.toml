@@ -41,7 +41,8 @@ doc = [
   "sphinx-automodapi",
   "sphinx-sitemap",
   "sphinx-comments",
-  "invoke"
+  "invoke",
+  "sphinxcontrib-mermaid"
 ]
 
 coverage = [

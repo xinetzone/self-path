@@ -21,7 +21,7 @@ if sys.platform == 'win32':
 from utils.icon import icon_links
 
 project = 'self-path'
-copyright = '2022, xinetzone'
+copyright = '2024, xinetzone'
 author = 'xinetzone'
 
 # The full version, including alpha/beta/rc tags
@@ -48,6 +48,7 @@ extensions = [
     "sphinx_thebe",
     "sphinx_sitemap",
     "sphinx_design",
+    "sphinxcontrib.mermaid"
 ]
 
 # Add any paths that contain templates here, relative to this directory.

@@ -5,8 +5,8 @@
 :maxdepth: 7
 
 FeynmanTechnique
-self-observation
-self-awareness
+self-consumption
+self-awareness/index
 metacognition
 about/index
 ```
