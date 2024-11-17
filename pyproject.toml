@@ -6,7 +6,7 @@ requires = ["flit_core >=3.4,<4"]
 authors = [{name = "xinetzone", email = "735613050@qq.com"}]
 dynamic = ["version", "description"]
 license = {file = "LICENSE"}
-name = "xbook"
+name = "self-path"
 readme = "README.md"
 requires-python = ">=3.10"
 
@@ -28,7 +28,7 @@ classifiers = [
 ]
 
 [project.urls]
-Home = "https://github.com/xinetzone/xbook"
+Home = "https://github.com/xinetzone/self-path"
 
 [project.optional-dependencies]
 doc = [
@@ -48,7 +48,7 @@ coverage = [
   "pytest-cov",
   "pytest-regressions",
   "codecov",
-  "xbook[test]",
+  "self_path[test]",
 ]
 dev = [
   "pyyaml",
@@ -59,11 +59,11 @@ dev = [
 ]
 test = [
   "pytest",
-  "xbook[doc]",
+  "self_path[doc]",
 ]
 
 # [project.entry-points]
-# "sphinx.html_themes" = {xbook = "xbook"}
+# "sphinx.html_themes" = {self-path = "self-path"}
 
 [tool.flit.sdist]
 # include = ["doc/"]

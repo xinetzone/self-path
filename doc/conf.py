@@ -13,19 +13,19 @@ import sys
 from pathlib import Path
 ROOT = Path('__file__').resolve().parents[1]
 sys.path.extend([str(ROOT/'src'), str(ROOT/"doc")])
-import xbook
+import self_path
 
 if sys.platform == 'win32':
     import asyncio
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 from utils.icon import icon_links
 
-project = 'xbook'
+project = 'self-path'
 copyright = '2022, xinetzone'
 author = 'xinetzone'
 
 # The full version, including alpha/beta/rc tags
-release = xbook.__version__
+release = self-path.__version__
 
 # -- General configuration ---------------------------------------------------
 
@@ -133,7 +133,7 @@ suppress_warnings = [
 ]
 
 thebe_config = {
-    "repository_url": "https://github.com/xinetzone/xbook",
+    "repository_url": "https://github.com/xinetzone/self-path",
     "path_to_docs": "doc",
     "repository_branch": "main",
     "selector": "div.highlight",
@@ -163,7 +163,7 @@ intersphinx_mapping = {
 
 # ``pydata-sphinx-theme`` 配置
 # Define the json_url for our version switcher.
-json_url = 'https://xinetzone.github.io/xbook/_static/switcher.json'
+json_url = 'https://xinetzone.github.io/self-path/_static/switcher.json'
 
 version = release
 
@@ -172,7 +172,7 @@ if "dev" in version:
     switcher_version = "dev"
 elif "rc" in version:
     switcher_version = version.split("rc")[0] + " (rc)"
-html_baseurl = "https://xinetzone.github.io/xbook"
+html_baseurl = "https://xinetzone.github.io/self-path"
 autosummary_generate = True
 html_theme_options = {
     "switcher": {
@@ -224,7 +224,7 @@ html_sidebars = {
 
 html_context = {
     "github_user": "xinetzone",
-    "github_repo": "xbook",
+    "github_repo": "self-path",
     "github_version": "main",
     "doc_path": "doc",
 }
@@ -246,7 +246,7 @@ comments_config = {
     "hypothesis": True,
     "dokieli": False,
     "utterances": {
-        "repo": "xinetzone/xbook",
+        "repo": "xinetzone/self-path",
         "optional": "config",
     }
 }
