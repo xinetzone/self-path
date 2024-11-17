@@ -1,6 +1,6 @@
-# 笔记模板
+# 心径
 
-![repo size](https://img.shields.io/github/repo-size/xinetzone/xbook.svg)
+![repo size](https://img.shields.io/github/repo-size/xinetzone/self-path.svg)
 [![PyPI][pypi-badge]][pypi-link]
 [![GitHub issues][issue-badge]][issue-link]
 [![GitHub forks][fork-badge]][fork-link]
@@ -12,39 +12,39 @@
 [![Downloads][download-badge]][download-link]
 [![Documentation Status][status-badge]][status-link]
 [![PyPI - Downloads][install-badge]][install-link]
-![GitHub top language](https://img.shields.io/github/languages/top/xinetzone/xbook)
+![GitHub top language](https://img.shields.io/github/languages/top/xinetzone/self-path)
 
 
 打造优质的笔记模板。
 
-[pypi-badge]: https://img.shields.io/pypi/v/xbook.svg
-[pypi-link]: https://pypi.org/project/xbook/
-[issue-badge]: https://img.shields.io/github/issues/xinetzone/xbook
-[issue-link]: https://github.com/xinetzone/xbook/issues
-[fork-badge]: https://img.shields.io/github/forks/xinetzone/xbook
-[fork-link]: https://github.com/xinetzone/xbook/network
-[star-badge]: https://img.shields.io/github/stars/xinetzone/xbook
-[star-link]: https://github.com/xinetzone/xbook/stargazers
-[license-badge]: https://img.shields.io/github/license/xinetzone/xbook
-[license-link]: https://github.com/xinetzone/xbook/LICENSE
-[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/xbook
-[contributor-link]: https://github.com/xinetzone/xbook/contributors
-[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/xbook
-[watcher-link]: https://github.com/xinetzone/xbook/watchers
+[pypi-badge]: https://img.shields.io/pypi/v/self-path.svg
+[pypi-link]: https://pypi.org/project/self-path/
+[issue-badge]: https://img.shields.io/github/issues/xinetzone/self-path
+[issue-link]: https://github.com/xinetzone/self-path/issues
+[fork-badge]: https://img.shields.io/github/forks/xinetzone/self-path
+[fork-link]: https://github.com/xinetzone/self-path/network
+[star-badge]: https://img.shields.io/github/stars/xinetzone/self-path
+[star-link]: https://github.com/xinetzone/self-path/stargazers
+[license-badge]: https://img.shields.io/github/license/xinetzone/self-path
+[license-link]: https://github.com/xinetzone/self-path/LICENSE
+[contributor-badge]: https://img.shields.io/github/contributors/xinetzone/self-path
+[contributor-link]: https://github.com/xinetzone/self-path/contributors
+[watcher-badge]: https://img.shields.io/github/watchers/xinetzone/self-path
+[watcher-link]: https://github.com/xinetzone/self-path/watchers
 [binder-badge]: https://mybinder.org/badge_logo.svg
-[binder-link]: https://mybinder.org/v2/gh/xinetzone/xbook/main
-[install-badge]: https://img.shields.io/pypi/dw/xbook?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/xbook
-[status-badge]: https://readthedocs.org/projects/xbook/badge/?version=latest
-[status-link]: https://xbook.readthedocs.io/zh/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/xbook
-[download-link]: https://pepy.tech/project/xbook
+[binder-link]: https://mybinder.org/v2/gh/xinetzone/self-path/main
+[install-badge]: https://img.shields.io/pypi/dw/self-path?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/self-path
+[status-badge]: https://readthedocs.org/projects/self-path/badge/?version=latest
+[status-link]: https://self-path.readthedocs.io/zh/latest/?badge=latest
+[download-badge]: https://pepy.tech/badge/self-path
+[download-link]: https://pepy.tech/project/self-path
 
 ## PyPI
 
 支持 PyPI：
 
 ```sh
-pip install xbook
+pip install self-path
 ```
 

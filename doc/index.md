@@ -2,11 +2,12 @@
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 7
 
-tutorials/index
-topics/index
-chaos/index
+FeynmanTechnique
+self-observation
+self-awareness
+metacognition
 about/index
 ```
 
