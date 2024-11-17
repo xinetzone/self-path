@@ -25,7 +25,7 @@ copyright = '2022, xinetzone'
 author = 'xinetzone'
 
 # The full version, including alpha/beta/rc tags
-release = self-path.__version__
+release = self_path.__version__
 
 # -- General configuration ---------------------------------------------------
 
