@@ -185,7 +185,7 @@ html_theme_options = {
     "use_download_button": True,
     "use_edit_page_button": True,
     "announcement": (
-        "👋欢迎进入编程视界！👋"
+        "👋欢迎探索心径！👋"
     ),
     # "launch_buttons": {
     #     "binderhub_url": "https://mybinder.org",
