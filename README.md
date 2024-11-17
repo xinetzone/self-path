@@ -15,7 +15,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/xinetzone/self-path)
 
 
-打造优质的笔记模板。
+探索自我的灵魂之旅。
 
 [pypi-badge]: https://img.shields.io/pypi/v/self-path.svg
 [pypi-link]: https://pypi.org/project/self-path/

@@ -172,7 +172,7 @@ if "dev" in version:
     switcher_version = "dev"
 elif "rc" in version:
     switcher_version = version.split("rc")[0] + " (rc)"
-html_baseurl = "https://xinetzone.github.io/self-path"
+html_baseurl = "https://github.com/xinetzone/self-path/"
 autosummary_generate = True
 html_theme_options = {
     "switcher": {
