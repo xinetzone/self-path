@@ -195,7 +195,7 @@ html_theme_options = {
     #     "thebe": True,
     #     # "jupyterhub_url": "https://datahub.berkeley.edu",  # For testing
     # },
-    # "use_issues_button": True,
+    "use_issues_button": True,
     # "show_nav_level": 0,
     # "show_toc_level": 0,
     "navigation_with_keys": True,
